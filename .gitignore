@@ -1,0 +1,12 @@
+DM_Experiment1/iris.arff
+DM_Experiment1/labor.arff
+DM_Experiment2/weather_nominal.arff
+DM_Experiment4/__pycache__/kmeans.png
+DM_Experiment4/__pycache__/dbscan.png
+DM_Experiment3/KNN/iris.2D.test.arff
+DM_Experiment3/KNN/iris.2D.train.arff
+DM_Experiment4/iris.arff
+DM_Experiment3/DT/weather_nominal_train.arff
+DM_Experiment3/DT/weather_nominal_test.arff
+DM_Experiment3/Bayes/weather_nominal_train.arff
+DM_Experiment3/Bayes/weather_nominal_test.arff
